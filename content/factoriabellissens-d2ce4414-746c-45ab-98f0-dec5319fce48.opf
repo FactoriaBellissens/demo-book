@@ -3,6 +3,10 @@
     <dc:identifier id="uid">factoriabellissens-5ac915c6-d2af-4843-b5c2-311c28c82d78</dc:identifier>
     <dc:title>FactoriaBellissens</dc:title>
       <date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="publication">2014-10-28</date>
+    <dc:language xmlns:xsi="http://www.idpf.org/2007/opf" xsi:type="dcterms:RFC4646">ca</dc:language>
+    <dc:rights>Creative Commons Attribution-NonCommercial-ShareAlike - CC BY-NC-SA</dc:rights>
+    <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:property="lrmi:useRightsUrl">http://creativecommons.org/licenses/by-nc-sa/3.0/</meta>
+    <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:properties="dcterms:modified">2014-10-28</meta>
 </metadata>
   <manifest><item href="factoriabellissens-d6a0ea94-abbc-4239-bd6a-d2efcc739ddd-nav.html" id="factoriabellissens-d6a0ea94-abbc-4239-bd6a-d2efcc739ddd-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-854c253a-3cb5-4f4b-af75-397955f09b1f.html" id="module1-854c253a-3cb5-4f4b-af75-397955f09b1f.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-854c253a-3cb5-4f4b-af75-397955f09b1f.html"></itemref></spine>

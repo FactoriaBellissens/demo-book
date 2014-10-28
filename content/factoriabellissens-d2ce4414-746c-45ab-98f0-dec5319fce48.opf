@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">factoriabellissens-5ac915c6-d2af-4843-b5c2-311c28c82d78</dc:identifier>
+    <dc:title>FactoriaBellissens</dc:title>
+      <date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="publication">2014-10-28</date>
+</metadata>
+  <manifest><item href="factoriabellissens-d6a0ea94-abbc-4239-bd6a-d2efcc739ddd-nav.html" id="factoriabellissens-d6a0ea94-abbc-4239-bd6a-d2efcc739ddd-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-854c253a-3cb5-4f4b-af75-397955f09b1f.html" id="module1-854c253a-3cb5-4f4b-af75-397955f09b1f.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-854c253a-3cb5-4f4b-af75-397955f09b1f.html"></itemref></spine>
+</package>
